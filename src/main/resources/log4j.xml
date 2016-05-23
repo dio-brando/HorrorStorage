@@ -11,7 +11,7 @@
 	</appender>
 	
 	<!-- Application Loggers -->
-	<logger name="com.psh.githubtest">
+	<logger name="com.psh.HorrorStorage">
 		<level value="info" />
 	</logger>
 	
